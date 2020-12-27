@@ -1,0 +1,10 @@
+O:\Udemy C# Örnekleri\Uçuş Rezervasyon\Uçuş Rezervasyon\bin\Debug\Uçuş Rezervasyon.exe.config
+O:\Udemy C# Örnekleri\Uçuş Rezervasyon\Uçuş Rezervasyon\bin\Debug\Uçuş Rezervasyon.exe
+O:\Udemy C# Örnekleri\Uçuş Rezervasyon\Uçuş Rezervasyon\bin\Debug\Uçuş Rezervasyon.pdb
+O:\Udemy C# Örnekleri\Uçuş Rezervasyon\Uçuş Rezervasyon\obj\Debug\Uçuş Rezervasyon.csprojAssemblyReference.cache
+O:\Udemy C# Örnekleri\Uçuş Rezervasyon\Uçuş Rezervasyon\obj\Debug\Uçuş_Rezervasyon.Form1.resources
+O:\Udemy C# Örnekleri\Uçuş Rezervasyon\Uçuş Rezervasyon\obj\Debug\Uçuş_Rezervasyon.Properties.Resources.resources
+O:\Udemy C# Örnekleri\Uçuş Rezervasyon\Uçuş Rezervasyon\obj\Debug\Uçuş Rezervasyon.csproj.GenerateResource.cache
+O:\Udemy C# Örnekleri\Uçuş Rezervasyon\Uçuş Rezervasyon\obj\Debug\Uçuş Rezervasyon.csproj.CoreCompileInputs.cache
+O:\Udemy C# Örnekleri\Uçuş Rezervasyon\Uçuş Rezervasyon\obj\Debug\Uçuş Rezervasyon.exe
+O:\Udemy C# Örnekleri\Uçuş Rezervasyon\Uçuş Rezervasyon\obj\Debug\Uçuş Rezervasyon.pdb
